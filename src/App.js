@@ -4,10 +4,10 @@ import UserProfile from './UserProfile';
 function App() {
 
   const details = {
-    name : "Jay Ganjawala",
-    age : 20,
+    name : "Dvijesha",
+    age : 19,
     location : "Surat",
-    bio : "Har Har Mahadev❤️"
+    bio : "Jay Swaminarayan"
   }
 
   return(
